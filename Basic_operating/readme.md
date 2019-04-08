@@ -1,3 +1,14 @@
 # basic operating
 - add indices
-- 
+- average
+- filter
+- join
+- map
+- multiply
+- sort
+- sum
+- union
+- cartesian
+- wordcount
+- mappatitions
+- top-n
